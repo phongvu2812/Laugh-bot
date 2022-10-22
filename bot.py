@@ -161,5 +161,5 @@ async def play_error(ctx, error):
     else:
         await ctx.send("Please join a voice channel!")
 
-TOKEN = 'MTAyNzc2NDQwOTMxNTEwNjkzOQ.GRaQVs.cXRgt-uBcRxUSJTj3lDP_1gyFtW4jfA_1BhAoM'
+TOKEN = 'TOKEN của bạn ở đây'
 client.run(TOKEN)
