@@ -1,0 +1,5 @@
+Bước 1: mở terminal và thay đổi đường dẫn thành nơi bạn để file này
+Bước 2: nhập dòng lệnh java -jar Lavalink.jar
+Bước 3: nhập ip máy bạn vào dòng 26 trong source code
+Bước 4: nhập token bot của bạn vào dòng 164 trong source code
+Bước 5: chạy file
